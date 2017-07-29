@@ -1,0 +1,6 @@
+# coding:utf8
+# Author: flytrap
+from settings.base import *
+
+SINA_USERNAME = ''
+SINA_PASSWORD = ''
